@@ -1,2 +1,4 @@
 I am adding text to this file.
 This side isn't write protected, it is labeled as 'working tree'
+This is to test out the message writing system that VS Code is supposed to bring up during a commit. 
+Here's to luck!
